@@ -1,3 +1,29 @@
+# Live Site
+This site is hosted on Vercel, [here.](https://netflix-clone-inky-five.vercel.app/)
+<p align="center">
+  <img src="https://i.ibb.co/vLLtfzL/netflix-project.png" width="350">
+</p>
+
+# Project - Netflix Clone
+This project was created with :
+
+[React JS](https://reactjs.org/)
+
+[The Movie DataBase API](https://www.themoviedb.org/)
+
+[Tailwind](https://tailwindcss.com/docs/guides/create-react-app) - [CSS Grid](https://learncssgrid.com/) & [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[Tailwind Scrollbar Hide](https://www.npmjs.com/package/tailwind-scrollbar-hide)
+
+[React Router](https://reactrouter.com/docs/en/v6)
+
+[React Icons](https://react-icons.github.io/react-icons/)
+
+[Axios](https://axios-http.com/docs/intro)
+
+[Firebase](https://firebase.google.com/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
